@@ -1,0 +1,22 @@
+{
+    "user_details": [
+        {
+            "name": "Arpana",
+            "dob": "1999-02-23",
+            "age": "22",
+            "hobbies": [
+                "music",
+                "sing"
+            ]
+        },
+        {
+            "name": "Arsana",
+            "dob": "2001-10-03",
+            "age": "19",
+            "hobbies": [
+                "music",
+                "read"
+            ]
+        }
+    ]
+}
